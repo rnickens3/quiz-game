@@ -17,7 +17,7 @@ This project demonstrates:
 
 ---
 
-## 🛠 Example Code
+## Example Code
 ```javascript
 function getRandomQuestion(questions) {
   return questions[Math.floor(Math.random() * questions.length)];
